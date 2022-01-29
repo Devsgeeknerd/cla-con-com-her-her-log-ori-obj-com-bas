@@ -1,7 +1,7 @@
 # ORIENTAÇÃO
 
 - [x] [Instruções Iniciais.](https://github.com/Devsgeeknerd/intrucoes-iniciais-orientacao)
-- [ ] Guia de Estudo.
+- [x] [Guia de Estudo.](https://github.com/Devsgeeknerd/guia-de-estudo-orientacao)
 - [ ] Sobre Internet, Domínios e Hospedagens.
 - [ ] Ferramentas Básicas.
 
