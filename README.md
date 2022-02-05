@@ -1,23 +1,73 @@
+<!-- TITLE -->
+
 # ORIENTAÇÃO
 
-- [x] [Instruções Iniciais.](https://github.com/Devsgeeknerd/intrucoes-iniciais-orientacao)
+***Módulos***:
+- [x] [Intruções Iniciais.](https://github.com/Devsgeeknerd/intrucoes-iniciais-orientacao)
 - [x] [Guia de Estudo.](https://github.com/Devsgeeknerd/guia-de-estudo-orientacao)
 - [ ] Sobre Internet, Domínios e Hospedagens.
-- [ ] Ferramentas Básicas.
+- [ ] Ferramentas Básicas. 
+
+<!-- TABLE OF CONTENTS -->
+
+<!-- ## TABELA DE CONTEÚDO -->
+
+<!-- OVERVIEW -->
+
+<!-- ## VISTA POR CIMA -->
+
+<!-- SCREENSHOT -->
+
+<!-- ### FOTO DA TELA -->
+
+<!-- LINKS -->
+
+<!-- ### LINKS -->
+
+<!-- MY PROCESS -->
+
+<!-- ## MEU PROCESSO -->
+
+<!-- BUILT WITH -->
+
+<!-- ### CONSTRUIDO COM -->
+
+<!-- WHAT I LEARNED -->
+
+<!-- ### O QUE APRENDI -->
+
+<!-- CONTINUED DEVELOPMENT -->
+
+<!-- ### DESENVOLVIMENTO CONTÍNUO -->
+
+<!-- USEFUL -->
+
+<!-- ### RECURSOS ÚTEIS -->
+
+<!-- AUTHOR -->
+
+<!-- ## AUTOR -->
+
+<!-- ACKNOWLEDGMENTS -->
+
+<!-- ## AGRADECIMENTOS -->
+
+<!-- INFORMATION -->
 
 ## INFORMAÇÕES
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.orientacao-full-stack "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Forientacao-full-stack&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
+![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/orientacao-full-stack?style=social "Total de Observadores")
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/orientacao-full-stack?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/orientacao-full-stack?style=social "Total de Estrelas Recebidas")
+![stars](https://img.shields.io/github/stars/Devsgeeknerd/orientacao-full-stack?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/orientacao-full-stack?style=social "Total de Forks")
+![forks](https://img.shields.io/github/forks/Devsgeeknerd/orientacao-full-stack?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/orientacao-full-stack?style=social "Tamanho do Repositório")
+![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/orientacao-full-stack?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/orientacao-full-stack?style=social "Licença do Repositório")
+![license](https://img.shields.io/github/license/Devsgeeknerd/orientacao-full-stack?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+
 
